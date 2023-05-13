@@ -1,3 +1,0 @@
-# basiccalculator
-Python Calculator App
-🎈
